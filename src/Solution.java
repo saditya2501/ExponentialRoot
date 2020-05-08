@@ -1,7 +1,8 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Solution {
+public class Solution
+{
 
     public static void main(String[] args)
     {
