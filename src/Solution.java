@@ -5,7 +5,8 @@ import java.lang.Math;
 
 public class Solution {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
@@ -14,7 +15,8 @@ public class Solution {
         int x = 0;
         while (n > 0 || x > 9)
         {
-            if (n == 0) {
+            if (n == 0)
+            {
                 n = x;
                 x = 0;
             }
