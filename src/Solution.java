@@ -23,6 +23,5 @@ public class Solution {
             n /= 10;
         }
         System.out.println(x);
-
     }
 }
